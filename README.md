@@ -1,6 +1,6 @@
 <h1 align="center" id="title">8L_BlipCreator</h1>
 
-<p id="description">Create blip in game. QBCore framework</p>
+<p id="description">System for create blip in game (Blip Builder) for QBCore</p>
 
   
   
