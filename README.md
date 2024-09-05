@@ -12,6 +12,7 @@ Here're some of the project's best features:
 ```
 /createblip
 ```
+*   Blips are stored in the file : blips.json
 *   Translation available : EN / FR / ES
 
 <h2>🛠️ Installation Steps:</h2>
